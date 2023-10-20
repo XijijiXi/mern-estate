@@ -18,7 +18,7 @@ const listingSchema = new mongoose.Schema(
       type: Number,
       require: true,
     },
-    discontPrice: {
+    discountPrice: {
       type: Number,
       require: true,
     },
